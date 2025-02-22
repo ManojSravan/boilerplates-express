@@ -1,5 +1,4 @@
-Here’s a beautiful README template for your boilerplate codebase, including sections for each setup: Express.js with Mongoose (JS & TS) and Express.js with Prisma (JS & TS). You can customize it further as needed!
-
+ 
 ---
 
 # Express.js Boilerplates
