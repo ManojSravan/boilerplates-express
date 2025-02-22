@@ -37,8 +37,8 @@ This boilerplate provides a solid foundation for building applications with Expr
 #### Getting Started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expressjs-boilerplates.git
-   cd expressjs-boilerplates/expressjs-mongoose-js
+   git clone https://github.com/ManojSravan/boilerplates-express.git
+   cd boilerplates-express/expressjs-mongoose-js
    ```
 2. Install dependencies:
    ```bash
@@ -62,8 +62,8 @@ This boilerplate leverages TypeScript for type safety while using Express.js and
 #### Getting Started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expressjs-boilerplates.git
-   cd expressjs-boilerplates/expressjs-mongoose-ts
+   git clone https://github.com/ManojSravan/boilerplates-express.git
+   cd boilerplates-express/expressjs-mongoose-ts
    ```
 2. Install dependencies:
    ```bash
@@ -87,8 +87,8 @@ This boilerplate uses Prisma for database management with Express.js.
 #### Getting Started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expressjs-boilerplates.git
-   cd expressjs-boilerplates/expressjs-prisma-js
+   git clone https://github.com/ManojSravan/boilerplates-express.git
+   cd boilerplates-express/expressjs-prisma-js
    ```
 2. Install dependencies:
    ```bash
@@ -112,8 +112,8 @@ This boilerplate combines TypeScript with Prisma for a modern development experi
 #### Getting Started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expressjs-boilerplates.git
-   cd expressjs-boilerplates/expressjs-prisma-ts
+   git clone https://github.com/ManojSravan/boilerplates-express.git
+   cd boilerplates-express/expressjs-prisma-ts
    ```
 2. Install dependencies:
    ```bash
